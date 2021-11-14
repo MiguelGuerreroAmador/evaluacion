@@ -1,4 +1,4 @@
 # evaluacion
 1. Cree un programa que tiene la función de dar a elegir al usuario entre 7 opciones de operaciones, sumar, restar, dividir, multiplicar, sacar raiz cuadrada, formula general y binomio al cuadrado perfecto. al usar cualquiera de estos opciones tendra que ingresar uno o mas numeros dependiendo de cual haya sido la operacion elegida, dependiendo de lo ingresado saldra un respuesta en caso de las operaciones basicas como suma, resta, division, multilplicacion, raiz, y binomio al cuadrado perfecto, en caso de formula general podran salir de una a dos respuestas.
 2. lo que utilice en este programa fue prompt para crear una ventana en el navegador. al igual que variables, switch, case, funciones y condicionales.
-3. para ver las opciones puedes ingresar a herramientas en opciones de la pagina y accedeer a herramientas de desarrollo y consola.
+3. para ver las opciones puedes ingresar a herramientas en opciones de la pagina y acceder a herramientas de desarrollo y consola.
